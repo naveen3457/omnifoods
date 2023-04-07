@@ -1,0 +1,1666 @@
+@media screen and (min-width:944px) and (max-width:1024px)  
+
+{
+    #home {
+        padding-top: 1rem;
+    }
+
+    #home section {
+        width: 50%;
+        padding: 2rem;
+        gap: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #home section img {
+        width: 28rem;
+    }
+    #home section h1 {
+        font-size: 2.3rem;
+        color: rgb(51, 51, 51);
+    }
+
+    #home section p {
+        font-size: 0.99rem;
+        line-height: 1.7rem;
+    }
+
+    #home section button {
+        width: 10rem;
+        padding: 0.8rem;
+        font-size: 0.9rem;
+    }
+
+    #home section article figure img {
+        width: 2.3rem;
+        border: 2px solid white;
+        margin: -0.5rem;
+    }
+    #home section article h4 {
+        font-size: 0.7rem;
+    }
+    #home section article mark {
+        font-size: 0.9rem;
+    }
+
+
+    /* Home End */
+
+
+    #featured section img{
+        width: 10rem;
+    }
+
+
+    /* featured End */
+
+
+    #steps section>h3{
+        font-size: 1rem;
+        padding: 1rem 0 1rem 1rem;
+    }
+    #steps section>h1{
+        padding-left: 1rem;
+        font-size: 2rem;
+    }
+    #a1{
+        width: 30rem;
+        height: 20rem;
+    }
+    #a1 h1{
+        font-size: 5rem;
+    }
+
+    #a1 h2{
+        font-size: 1.5rem;
+    }
+
+    #a1 p{
+        font-size: 1rem;
+        line-height: 1.9rem;
+    }
+    #a2{
+        width: 30rem;
+        height: 20rem;
+    }
+    #a2 article{
+        width: 18rem;
+        height: 18rem;
+    }
+    #a2 article article{
+        width: 13rem;
+        height: 13rem;
+    }
+
+    #a2 img{
+        width: 10rem;
+    }
+
+     /* steps end */
+
+     #meals section h3{
+        font-size: 0.9rem;
+    }
+    #meals section>h1{
+        font-size: 2.3rem;
+    }
+    .food{
+        width: 17rem;
+    }
+    .food img{
+        width: 17rem;
+    }
+    .food aside{
+        padding: 2rem;
+    }
+    .food h2{
+        font-size: 1.2rem;
+        padding: 0.5rem 0;
+    }
+    .food ul{
+        font-size: 1rem;
+        gap: 1rem;
+    }
+    #meals section div article ion-icon{
+        font-size: 1.3rem;
+    }
+    #diet{
+        width: 17rem;
+        padding: 0.5rem;
+    }
+    #diet h1{
+        font-size: 1.4rem;
+        padding: 0.5rem 0;
+    }
+    #diet ul{
+        font-size: 1rem;
+        gap: 1.5rem;
+    }
+
+    /* meals end */
+
+    #test{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap:3rem;
+        padding: 3rem 0;
+    }
+    #test section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem 0;
+    }
+    #test aside h1{
+        font-size: 2.3rem;
+        color: rgb(51,51,51);
+    }
+    #test article div p{
+        font-size: 1rem;
+        line-height: 1.7rem;
+    }
+    #test article{
+        padding: 2rem 0 0 0;
+    }
+    #test article div img{
+        width: 4rem;
+    }
+
+    /* testimonials End */
+
+    #price section h3{
+        font-size: 0.9rem;
+        padding: 0.5rem;
+    }
+    #price section>h1{
+        font-size: 2.2rem;
+        padding: 0.5rem;
+    }
+    #price section div article{
+        width: 20rem;
+        padding: 2rem 0.5rem;
+    }
+    #price section div article h4{
+        font-size: 1rem;
+    }
+    #price section div article h1{
+        font-size: 3.5rem;
+    }
+    #price section div article span{
+        font-size: 1.5rem;
+    }
+    #price section p{
+        font-size: 1rem;
+    }
+    #price section div article ul li{
+        font-size: 1rem;
+        gap: 0.5rem;
+    }
+    #price section div article ul ion-icon{
+        font-size: 1.3rem;
+    }
+    #price section div article button{
+        width: 11rem;
+        padding: 0.9rem;
+        font-weight: 900;
+    }
+
+    /* price End */
+
+    #icon section{
+        width: 14rem;
+        height: auto;
+    }
+    #icon section ion-icon{
+        font-size: 1.8rem;
+    }
+    #icon section h2{
+        font-size: 1.3rem;
+    }
+    #icon section p{
+        font-size: 0.9rem;
+    }
+
+    /* icon End */
+
+    #free section{
+        width: 80%;
+        display: grid;
+        grid-template-columns: 2.8fr 1.5fr;
+    }
+    #free section aside h1{
+        font-size: 1.5rem;  
+    }
+    #free section aside p{
+        line-height: 1.5rem;
+        font-weight: 300;
+        font-size: 1rem;
+    }
+    #free section aside article div input{
+        width: 17rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+    #free section aside article div select{
+        width: 17rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    #free section aside article div button{
+        width: 17rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    /* free End */
+
+    footer img{
+        width: 9rem;
+    }
+
+    footer section ul li ion-icon{
+        font-size: 1.5rem;
+        padding: 0.3rem;
+        opacity: 0.6;
+    }
+
+    footer section{
+        gap: 1.8rem;
+        padding: 3rem 1rem;
+    }
+
+    footer section ul{
+        width: 10rem;
+        list-style: none;
+    }
+    footer section ul li{
+        padding: 0.5rem;
+        line-height: 1.7rem;
+        color: rgb(16, 27, 46);
+        font-size: 0.9rem;
+    }
+
+
+}
+
+@media screen and (max-width:945px) and (min-width:768px)
+{
+
+    nav ul{
+        display: none;
+    }
+    nav div{
+        display: block;
+    }
+    
+    #home {
+        padding-top: 2rem;
+    }
+    #home section aside {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 1.3rem;
+    }
+    #home section {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #home section img {
+        width: 25rem;
+    }
+    #home section h1 {
+        font-size: 2.3rem;
+        text-align: center;
+    }
+    #home section p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+    }
+    #home section button {
+        width: 10rem;
+        padding: 0.8rem;
+        font-size: 1rem;
+    }
+    #home section article {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #home section article figure img {
+        width: 2.5rem;
+        border: 2px solid white;
+        margin: -0.6rem;
+    }
+    #home section article h4 {
+        font-size: 0.9rem;
+    }
+    #home section article mark {
+        font-size: 1rem;
+    }
+
+
+    /* Home End */
+
+
+
+    #featured {
+        padding: 1rem 0 1rem 0;
+    }
+    #featured section{
+        gap:1.5rem;
+    }
+    #featured section img{
+        width: 8rem;
+        padding: 1rem;
+    }
+
+    #featured h2{
+        font-size: 0.7rem;
+        padding-top: 1.5rem;
+    }
+
+
+    /* featured End */
+
+
+    #steps section{
+        padding-bottom: 2rem;
+        gap: 0.5rem;
+    }
+
+    #steps section>h3{
+        font-size: 0.9rem;
+        padding: 1rem 0 1rem 1rem;
+    }
+
+    #steps section>h1{
+        padding-left: 1rem;
+        font-size: 1.8rem;
+    }
+
+
+    #steps section div{
+        padding: 2rem 0;
+        gap: 0.5rem;
+    }
+    #a1{
+        width: 23rem;
+        height: 18rem;
+    }
+
+    #a1 h1{
+        font-size: 4rem;
+    }
+
+    #a1 h2{
+        font-size: 1.2rem;
+    }
+
+    #a1 p{
+        font-size: 1rem;
+        line-height: 1.7rem;
+    }
+
+
+    #a2{
+        width: 23rem;
+        height:18rem;
+    }
+
+    #a2 article{
+        width: 15rem;
+        height: 15rem;
+    }
+    #a2 article article{
+        width: 11rem;
+        height: 11rem;
+    }
+
+    #a2 img{
+        width: 8rem;
+    }
+
+
+
+
+    /* steps end */
+
+
+    #meals section h3{
+        font-size: 0.8rem;
+    }
+
+    #meals section>h1{
+        font-size: 2rem;
+    }
+
+    #meals section div{
+        gap: 2rem;
+        padding: 2rem 0;
+    }
+
+    .food{
+        width: 14rem;
+    }
+
+    .food img{
+        width: 14rem;
+    }
+
+    .food aside{
+        padding: 1rem;
+        gap: 0.5rem;
+    }
+
+    .food ul{
+        font-size: 0.8rem;
+        gap: 1.5rem;
+    }
+
+    .food h2{
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    #meals section div article ion-icon{
+        font-size: 1rem;
+        color: rgb(224, 135, 51);
+    }
+
+    #button1{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+    #button2{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+    #button3{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+
+
+    #diet{
+        width: 14rem;
+        padding: 0.5rem;
+    }
+
+    #diet ul{
+        font-size: 0.8rem;
+        gap: 1.4rem;
+    }
+
+    #diet h1{
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    #meals section a{
+        font-size: 0.8rem;
+    }
+
+
+    /* meals end */
+
+
+
+    #test{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap:3rem;
+        padding: 3rem 0;
+    }
+
+    #test section{
+        width:100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    #test section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem 0;
+    }
+
+    #test aside h1{
+        font-size: 1.7rem;
+        padding: 0.5rem 0;
+    }
+
+    #test article{
+        column-gap: 2rem;
+        padding: 2rem 0 0 0;
+    }
+
+
+    #test article div p{
+        font-size: 0.9rem;
+    }
+
+    #test article div img{
+        width: 3rem;
+    }
+
+
+
+    #test figure{
+        width: 100%;
+        display: grid;
+        justify-content: space-evenly;
+        align-items: center;
+        grid-template-columns: repeat(6, auto);     
+        gap: 0.7rem;
+        column-gap: normal;
+        
+    }
+    #test figure img{
+        width: 7rem;
+    }
+
+    /* testimonials End */
+
+
+    #price section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem;
+    }
+    #price section>h1{
+        font-size: 1.8rem;
+        padding: 0.5rem;
+    }
+    #price section div{
+        gap: 2rem;
+    }
+
+    #price section div article{
+        width: 18rem;
+        padding: 2rem 0.5rem;
+        gap: 1rem;
+    }
+
+    #price section div article h4{
+        font-size: 1rem;
+    }
+
+    #price section div article h1{
+        font-size: 3rem;
+    }
+    #price section div article span{
+        font-size: 1.5rem;
+    }
+
+    #price section p{
+        text-align: center;
+        padding: 0.5rem 0;
+        font-size: 0.8rem;
+    }
+
+    #price section div article ul li{
+        gap: 0.5rem;
+        font-size: 0.8rem;
+    }
+    #price section div article ul ion-icon{
+        font-size: 1.3rem;
+    }
+
+    #price section div article button{
+        width: 10rem;
+        padding: 0.5rem;
+        font-weight: 700;
+    }
+
+
+
+    /* price End */
+
+
+    #icon section{
+        width: 10rem;
+        height: auto;
+    }
+    #icon section ion-icon{
+        font-size: 1.5rem;
+        padding: 0.8rem;
+    }
+
+    #icon section p{
+        line-height: 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    #icon section h2{
+        font-size: 1rem;
+    }
+
+    /* icon End */
+
+
+    #free{
+        padding: 5rem 2rem;
+    }
+
+    #free section{
+        width: 100%;
+        grid-template-columns: 1.5fr 1.2fr;
+    }
+
+    #free section aside h1{
+        font-size: 1.5rem;  
+    }
+    #free section aside p{
+        line-height: 1.5rem;
+        font-weight: 300;
+        font-size: 1rem;
+    }
+
+    #free section aside article{
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    #free section aside{
+        padding: 1rem;
+        justify-content: center;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    #free section aside article div input{
+        width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    #free section aside article div h3{
+        padding: 0.5rem 0;
+        font-size: 0.9rem;
+    }
+
+    #free section aside article div select{
+        width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    #free section aside article div button{
+        width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+
+    }
+
+    
+    /* free End */
+
+
+    footer img{
+        width: 7rem;
+    }
+
+    footer section ul li ion-icon{
+        font-size: 1.3rem;
+        padding: 0.3rem;
+        opacity: 0.6;
+    }
+
+    footer section{
+        gap: 1.5rem;
+        padding: 3rem 1rem;
+    }
+
+    footer section ul{
+        width: 8rem;
+    }
+    footer section ul li{
+        padding: 0.5rem;
+        line-height: 1.7rem;
+        font-size: 0.8rem;
+    }
+
+
+}
+
+
+
+@media screen  and (max-width:767px) and (min-width:426px){
+
+    nav ul{
+        display: none;
+    }
+    nav div{
+        display: block;
+    }
+    nav img{
+        width: 8rem;
+    }
+    
+    #home {
+        padding-top: 2rem;
+    }
+    #home div{
+        flex-direction: column;
+    }
+    #home section aside {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 1.3rem;
+    }
+    #home section {
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    #home section img {
+        width: 20rem;
+    }
+    #home section h1 {
+        font-size: 2.3rem;
+        text-align: center;
+    }
+    #home section p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+    }
+    #home section button {
+        width: 10rem;
+        padding: 0.8rem;
+        font-size: 1rem;
+    }
+    #home section article {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #home section article figure img {
+        width: 2.5rem;
+        border: 2px solid white;
+        margin: -0.6rem;
+    }
+    #home section article h4 {
+        font-size: 0.9rem;
+    }
+    #home section article mark {
+        font-size: 1rem;
+    }
+
+
+    /* Home End */
+
+
+
+    #featured {
+        padding: 1rem 0 1rem 0;
+    }
+    #featured section{
+        gap:1.5rem;
+    }
+    #featured section img{
+        width: 8rem;
+        padding: 1rem;
+    }
+
+    #featured h2{
+        font-size: 0.7rem;
+        padding-top: 1.5rem;
+    }
+
+
+    /* featured End */
+
+
+    #steps section{
+        padding-bottom: 2rem;
+        gap: 0.5rem;
+    }
+
+    #steps section>h3{
+        font-size: 0.9rem;
+        padding: 1rem 0 1rem 1rem;
+    }
+
+    #steps section>h1{
+        padding-left: 1rem;
+        font-size: 1.3rem;
+    }
+
+
+    #steps section div{
+        padding: 2rem 0;
+        gap: 0.5rem;
+    }
+    #a1{
+        width: 23rem;
+        height: 18rem;
+    }
+
+    #a1 h1{
+        font-size: 4rem;
+    }
+
+    #a1 h2{
+        font-size: 1.2rem;
+    }
+
+    #a1 p{
+        font-size: 1rem;
+        line-height: 1.7rem;
+    }
+
+
+    #a2{
+        width: 23rem;
+        height:18rem;
+    }
+
+    #a2 article{
+        width: 15rem;
+        height: 15rem;
+    }
+    #a2 article article{
+        width: 11rem;
+        height: 11rem;
+    }
+
+    #a2 img{
+        width: 8rem;
+    }
+
+
+
+
+    /* steps end */
+
+
+    #meals section h3{
+        font-size: 0.8rem;
+    }
+
+    #meals section>h1{
+        font-size: 1.2rem;
+        text-align: center;
+    }
+
+    #meals section div{
+        gap: 2rem;
+        padding: 2rem 0;
+    }
+
+    .food{
+        width: 14rem;
+    }
+
+    .food img{
+        width: 14rem;
+    }
+
+    .food aside{
+        padding: 1rem;
+        gap: 0.5rem;
+    }
+
+    .food ul{
+        font-size: 0.8rem;
+        gap: 1.5rem;
+    }
+
+    .food h2{
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    #meals section div article ion-icon{
+        font-size: 1rem;
+        color: rgb(224, 135, 51);
+    }
+
+    #button1{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+    #button2{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+    #button3{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+
+
+    #diet{
+        width: 14rem;
+        padding: 0.5rem;
+    }
+
+    #diet ul{
+        font-size: 0.8rem;
+        gap: 1.4rem;
+    }
+
+    #diet h1{
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    #meals section a{
+        font-size: 0.8rem;
+    }
+
+
+    /* meals end */
+
+
+
+    #test{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap:3rem;
+        padding: 3rem 0;
+    }
+
+    #test section{
+        width:100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    #test section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem 0;
+    }
+
+    #test aside h1{
+        font-size: 1.5rem;
+        padding: 0.5rem 0;
+    }
+
+    #test article{
+        column-gap: 2rem;
+        padding: 2rem 0 0 0;
+    }
+
+
+    #test article div p{
+        font-size: 0.9rem;
+    }
+
+    #test article div img{
+        width: 2.5rem;
+    }
+
+
+
+    #test figure{
+        width: 100%;
+        display: grid;
+        justify-content: space-evenly;
+        align-items: center;
+        grid-template-columns: repeat(4, auto);     
+        gap: 0.7rem;
+        column-gap: normal;
+        
+    }
+    #test figure img{
+        width: 5rem;
+    }
+
+    /* testimonials End */
+
+
+    #price section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem;
+    }
+    #price section>h1{
+        font-size: 1.5rem;
+        padding: 0.5rem;
+    }
+    #price section div{
+        gap: 2rem;
+    }
+
+    #price section div article{
+        width: 18rem;
+        padding: 2rem 0.5rem;
+        gap: 1rem;
+    }
+
+    #price section div article h4{
+        font-size: 1rem;
+    }
+
+    #price section div article h1{
+        font-size: 3rem;
+    }
+    #price section div article span{
+        font-size: 1.5rem;
+    }
+
+    #price section p{
+        text-align: center;
+        padding: 0.5rem 0;
+        font-size: 0.8rem;
+    }
+
+    #price section div article ul li{
+        gap: 0.5rem;
+        font-size: 0.8rem;
+    }
+    #price section div article ul ion-icon{
+        font-size: 1.3rem;
+    }
+
+    #price section div article button{
+        width: 10rem;
+        padding: 0.5rem;
+        font-weight: 700;
+    }
+
+
+
+    /* price End */
+
+
+    #icon section{
+        width: 10rem;
+        height: auto;
+    }
+    #icon section ion-icon{
+        font-size: 1.5rem;
+        padding: 0.8rem;
+    }
+
+    #icon section p{
+        line-height: 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    #icon section h2{
+        font-size: 1rem;
+    }
+
+    /* icon End */
+
+
+    #free{
+        padding: 5rem 2rem;
+    }
+
+    #free section{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    #free section aside h1{
+        font-size: 1.5rem;  
+    }
+    #free section aside p{
+        line-height: 1.5rem;
+        font-weight: 300;
+        font-size: 1rem;
+    }
+
+    #free section aside article{
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    #free section aside{
+        padding: 1rem;
+        justify-content: center;
+        gap: 1rem;
+        padding: 1rem;
+    }
+
+    #free section aside article div input{
+        width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    #free section aside article div h3{
+        padding: 0.5rem 0;
+        font-size: 0.9rem;
+    }
+
+    #free section aside article div select{
+        width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    #free section aside article div button{
+        width: 20rem;
+        padding: 0.5rem;
+        font-size: 1rem;
+    }
+
+    #free section article img{
+        border-radius: 0 0 0.5rem 0.5rem;
+        height: 23rem;
+    }
+
+    
+    /* free End */
+
+
+    footer img{
+        width: 7rem;
+    }
+
+    footer section ul li ion-icon{
+        font-size: 1.3rem;
+        padding: 0.3rem;
+        opacity: 0.6;
+    }
+
+    footer section{
+        gap: 1.5rem;
+        padding: 3rem 1rem;
+    }
+
+    footer section ul{
+        width: 8rem;
+    }
+    footer section ul li{
+        padding: 0.5rem;
+        line-height: 1.7rem;
+        font-size: 0.8rem;
+    }
+
+
+}
+
+
+
+
+@media screen and (min-width:315px) and (max-width:425px)
+{
+
+    nav ul{
+        display: none;
+    }
+    nav div{
+        display: block;
+    }
+    #home {
+        padding-top: 2rem;
+    }
+    #home div{
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+    #home section {
+        width: 100%;
+        gap: 1rem;
+        
+    }
+    #home section img {
+        width: 15rem;
+    }
+    #home section h1 {
+        font-size: 2rem;
+        text-align: center;
+    }
+    #home section p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+        text-align: center;
+    }
+    #home section aside {
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+    }
+    #home section button {
+        width: 10rem;
+        padding: 0.8rem;
+        font-size: 1rem;
+    } 
+    #home section aside button:nth-child(2){
+        width: 8rem;
+        padding: 0.8rem;
+        font-size: 0.8rem;
+    } 
+    #home section article {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+    }
+    #home section article h4 {
+        font-size: 0.7rem;
+    }
+    #home section article mark {
+        font-size: 0.9rem;
+    }
+    
+    /* Home End */
+
+    #featured {
+        padding: 1rem 0 1rem 0;
+    }
+    #featured section{
+        gap:0.5rem;
+    }
+    #featured section img{
+        width: 6rem;
+        padding: 1rem;
+    }
+
+    #featured h2{
+        font-size: 0.7rem;
+        padding-top: 1.5rem;
+    }
+
+    /* featured End */
+
+    #steps section{
+        padding-bottom: 2rem;
+        gap: 0.5rem;
+    }
+
+    #steps section>h3{
+        font-size: 0.8rem;
+        padding: 1rem 0 1rem 1rem;
+    }
+
+    #steps section>h1{
+        padding-left: 1rem;
+        font-size: 1.7rem;
+    }
+
+
+    #steps section div{
+        padding: 2rem 1rem;
+    }
+    #a1{
+        width: 20rem;
+        height: 15rem;
+        order: 1;
+    }
+
+    #a1 h1{
+        font-size: 3rem;
+    }
+
+    #a1 h2{
+        font-size: 1rem;
+    }
+
+    #a1 p{
+        font-size: 0.8rem;
+        line-height: 1.5rem;
+    }
+
+
+    #a2{
+        width: 20rem;
+        height: 15rem;
+    }
+
+    #a2 article{
+        width: 11rem;
+        height: 11rem;
+    }
+    #a2 article article{
+        width: 8rem;
+        height: 8rem;
+    }
+
+    #a2 img{
+        width: 6rem;
+    }
+
+
+
+
+    /* steps end */
+
+    #meals{
+        padding: 0.5rem;
+    }
+    
+    #meals section h3{
+        font-size: 0.7rem;
+    }
+
+    #meals section>h1{
+        font-size: 1.9rem;
+        text-align: center;
+    }
+
+    #meals section div{
+        gap: 2rem;
+    }
+
+    .food{
+        width: 15rem;
+    }
+
+    .food img{
+        width: 15rem;
+    }
+
+    .food aside{
+        padding: 1rem;
+        gap: 0.5rem;
+    }
+
+    .food ul{
+        font-size: 0.8rem;
+        gap: 1.5rem;
+    }
+
+    .food h2{
+        font-size: 1rem;
+        padding: 0.5rem 0;
+    }
+
+    #meals section div article ion-icon{
+        font-size: 1rem;
+        color: rgb(224, 135, 51);
+    }
+
+    #button1{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+    #button2{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+    #button3{
+        font-size: 0.6rem;
+        padding: 0.3rem 0.3rem;
+    }
+
+
+    #diet{
+        width: 15rem;
+        padding: 1.5rem 1.5rem 0 1.5rem;
+    }
+
+    #diet ul{
+        font-size: 0.9rem;
+        gap: 1.2rem;
+    }
+
+    #diet h1{
+        font-size: 1rem;
+        padding: 0.8rem 0;
+    }
+
+    #meals section a{
+        font-size: 0.8rem;
+    }
+
+
+    /* meals end */
+
+    #test{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap:3rem;
+        padding: 3rem 0;
+    }
+
+    #test section{
+        width:100%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    #test section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem 0;
+    }
+
+    #test aside h1{
+        font-size: 1.7rem;
+        padding: 0.5rem 0;
+    }
+
+    #test article{
+        grid-template-rows: auto auto auto auto;
+        grid-template-columns: auto;
+        column-gap: 2rem;
+        padding: 2rem 0 0 0;
+    }
+
+
+    #test article div p{
+        font-size: 0.9rem;
+    }
+
+    #test article div img{
+        width: 3rem;
+    }
+
+
+
+    #test figure{
+        width: 100%;
+        display: grid;
+        justify-content: space-evenly;
+        align-items: center;
+        grid-template-columns: repeat(4, auto);     
+        gap: 0.7rem;
+        column-gap: normal;
+        
+    }
+    #test figure img{
+        width: 4rem;
+    }
+
+    /* testimonials End */
+
+    
+    #price section h3{
+        font-size: 0.8rem;
+        padding: 0.5rem;
+    }
+    #price section>h1{
+        font-size: 1.8rem;
+        padding: 0.5rem;
+    }
+    #price section div{
+        gap: 2rem;
+    }
+
+    #price section div article{
+        width: 18rem;
+        padding: 2rem 0.5rem;
+        gap: 1rem;
+    }
+
+    #price section div article h4{
+        font-size: 1rem;
+    }
+
+    #price section div article h1{
+        font-size: 3rem;
+    }
+    #price section div article span{
+        font-size: 1.5rem;
+    }
+
+    #price section p{
+        text-align: center;
+        padding: 0.5rem 0;
+        font-size: 0.8rem;
+    }
+
+    #price section div article ul li{
+        gap: 0.5rem;
+        font-size: 0.8rem;
+    }
+    #price section div article ul ion-icon{
+        font-size: 1.3rem;
+    }
+
+    #price section div article button{
+        width: 10rem;
+        padding: 0.5rem;
+        font-weight: 700;
+    }
+
+
+
+    /* price End */
+
+    #icon section{
+        width: 17rem;
+        height: auto;
+    }
+    #icon section ion-icon{
+        font-size: 1.5rem;
+        padding: 0.8rem;
+    }
+
+    #icon section p{
+        line-height: 1.5rem;
+        font-size: 0.9rem;
+    }
+
+    #icon section h2{
+        font-size: 1rem;
+    }
+
+    /* icon End */
+
+    #free{
+        padding: 5rem 2rem;
+    }
+
+    #free section{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        grid-template-rows: auto auto;
+
+    }
+    #free section>article img{
+        width: 16rem;
+        border-radius: 0.5rem 0.5rem 0 0;
+    }
+    #free section aside h1{
+        font-size: 1rem;  
+    }
+    #free section aside p{
+        text-align: center;
+        line-height: 1.5rem;
+        font-weight: 300;
+        font-size: 0.8rem;
+    }
+
+    #free section aside article{
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+
+    #free section aside{
+        padding: 1rem;
+        justify-content: center;
+        gap: 1rem;
+        padding: 1rem;
+        order: 1;
+    }
+
+    #free section aside article div input{
+        width: 13rem;
+        padding: 0.5rem;
+        font-size: 0.8rem;
+    }
+
+    #free section aside article div h3{
+        padding: 0.5rem 0;
+        font-size: 0.9rem;
+    }
+
+    #free section aside article div select{
+        width: 13rem;
+        padding: 0.5rem;
+        font-size: 0.8rem;
+    }
+
+    #free section aside article div button{
+        width: 13rem;
+        padding: 0.5rem;
+        font-size: 0.8rem;
+
+    }
+
+    /* free End */
+
+    footer{
+        width: 100%;
+    }
+
+    footer img{
+        width: 7rem;
+    }
+
+    footer section ul li ion-icon{
+        font-size: 1.3rem;
+        padding: 0.3rem;
+        opacity: 0.6;
+    }
+
+    footer section{
+        width: 100%;
+        gap: 1rem;
+        padding: 2rem 1rem;
+    }
+
+    footer section ul{
+        width: 5rem;
+    }
+    footer section ul li{
+        font-size: 0.8rem;
+        line-height: 1.8;
+        padding: 0;
+    }
+    .end{
+        order: 1;
+    }
+
+
+}
